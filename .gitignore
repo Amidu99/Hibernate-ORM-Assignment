@@ -1,4 +1,3 @@
 .idea
 target
-ORM-Assignment-part01.iml
-ORM-Assignment-part02.iml
+*.iml
